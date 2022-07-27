@@ -11,8 +11,10 @@
                 <li><a class="nav-link text-light text-uppercase fw-bold" href="">Home</a></li>
               <li><a class="nav-link text-light text-uppercase fw-bold mx-3"  href="#types">Types</a></li>
                <li><a class="nav-link text-light text-uppercase fw-bold mx-3" href="#ue">Upcoming Events</a></li>
+               <router-link class="nav-link" to="/login">
                <li ><a class="nav-link text-light text-uppercase fw-bold mx-3  " href="">Login</a>
                  </li>
+               </router-link>
                  
                </ul>
                </div>
