@@ -1,5 +1,6 @@
 <template>
   <div>
+    <Navbar />
     <section id="timer">
         <div class="container-fluid" style="height: 100vh;">
             <div class="row justify-content-center text-center align-items-center" style="height: 100vh;">
@@ -156,14 +157,17 @@
 </template>
 
 <script>
+import Navbar from "../components/Navbar.vue"
 export default {
-
+components:{
+  Navbar
+}
 }
 </script>
 
 <style>
  #timer{
-     background-image: url('images/timerbackground.jpg');
+     background-image: url('../assets/timerbackground.jpg');
      background-repeat: no-repeat;
      background-size: cover;
 } 
