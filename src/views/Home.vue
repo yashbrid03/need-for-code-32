@@ -9,14 +9,14 @@
                     </h2>
                     <br>
                     <div class="row justify-content-center text-center" id="days"> 
-                    <div class="col-md-3  text-warning " style="height: 100px; width: 100px";><span class="large-text fw-bold font-size-50px " style="font-size: 30px;" id="day-no">4</span><br>
+                    <div class="col-md-3  text-warning " style="height: 100px; width: 100px"><span class="large-text fw-bold font-size-50px " style="font-size: 30px;" id="day-no">4</span><br>
                             <span style="font-size: 20px;" id="day">Days</span></div>
-                        <div class="col-md-3  text-warning  " style="height: 100px; width: 100px";><span class="large-text fw-bold font-size-50px " style="font-size: 30px;" id="hr-no">15</span><br>
+                        <div class="col-md-3  text-warning  " style="height: 100px; width: 100px"><span class="large-text fw-bold font-size-50px " style="font-size: 30px;" id="hr-no">15</span><br>
                             <span style="font-size: 20px;" id="hr">Hours</span></div>
-                        <div class="col-md-3  text-warning" style="height: 100px; width: 100px";><span           class="large-text fw-bold font-size-50px " style="font-size: 30px;" id="min-no">28</span><br>
+                        <div class="col-md-3  text-warning" style="height: 100px; width: 100px"><span           class="large-text fw-bold font-size-50px " style="font-size: 30px;" id="min-no">28</span><br>
                             <span style="font-size: 20px;" id="min">Minutes</span></div> 
 
-                        <div class="col-md-3 text-warning" style="height: 100px; width: 100px";><span class="large-text fw-bold font-size-50px " style="font-size: 30px;" id="sec-no">16</span><br>
+                        <div class="col-md-3 text-warning" style="height: 100px; width: 100px"><span class="large-text fw-bold font-size-50px " style="font-size: 30px;" id="sec-no">16</span><br>
                             <span style="font-size: 20px;" id="sec">Seconds</span></div> 
                            
                     </div>
@@ -29,7 +29,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center text-center p-5 bg-muted">
                 <div class="col-md-10">
-                  <h6 class="display-4 mb-3 fw-normal" id="type-h">Types of events</h2>
+                  <h6 class="display-4 mb-3 fw-normal" id="type-h"> Types of events </h6>
                   
                 </div>
             </div>
@@ -94,7 +94,7 @@
                             </div>
                             </div>
                         </div>
-                        <div class="col-md-3 bg-muted mx-3 col-sm-6 mb-3"id="desc-col" style="height: 200px; width: 350px; "><div></div>Welcome Ganesha with Dhol and Tashas</div>
+                        <div class="col-md-3 bg-muted mx-3 col-sm-6 mb-3" id="desc-col" style="height: 200px; width: 350px; "><div></div>Welcome Ganesha with Dhol and Tashas</div>
                     </div>
                     <div class="row  justify-content-center text-center align-items-center" style="height: 60vh;">
                         <div class="col-md-3  col-sm-3 mb-2" id="bigcol" style="height: 200px; width: 170px; ">
@@ -107,7 +107,7 @@
                                 <div class="col-md-5 mt-4 mx-5 ">Cric-o-mania</div>
                             </div>
                         </div>
-                        <div class="col-md-3 bg-muted mx-3 col-sm-6 mb-3 "id="desc-col" style="height: 200px; width: 350px; ">It's cricket time</div>
+                        <div class="col-md-3 bg-muted mx-3 col-sm-6 mb-3 " id="desc-col" style="height: 200px; width: 350px; ">It's cricket time</div>
                         
 
                         <div class="col-md-3 col-sm-3 mb-2" id="bigcol" style="height: 200px; width: 170px; ">
@@ -123,7 +123,7 @@
                         <div class="col-md-3 bg-muted mx-3 col-sm-6 mb-3 " id="desc-col" style="height: 200px; width: 350px; "><div>Let's celebrate the most prosperous festival of the year</div></div>
                     </div>
                     <div class="row  justify-content-center text-center align-items-center" style="height: 60vh;">
-                        <div class="col-md-3  col-sm-3 mb-2"id="bigcol" style="height: 200px; width: 170px; ">
+                        <div class="col-md-3  col-sm-3 mb-2" id="bigcol" style="height: 200px; width: 170px; ">
                             <div class="row text-center align-items-center">
                                 <div class="col-md-5 " id="smallcol" style="height: 100px; width: 85px;">
                                     <div class="mt-4 ">5th September</div>
@@ -133,10 +133,10 @@
                                 <div class="col-md-5 mt-4 mx-5 ">Hackathon</div>
                             </div>
                         </div>
-                        <div class="col-md-3 bg-muted mx-3 col-sm-6 mb-3 " id="desc-col"style="height: 200px; width: 350px; ">aldnaldl adknl adnal kndl nlad</div>
+                        <div class="col-md-3 bg-muted mx-3 col-sm-6 mb-3 " id="desc-col" style="height: 200px; width: 350px; ">aldnaldl adknl adnal kndl nlad</div>
                         
 
-                        <div class="col-md-3  col-sm-3 mb-2" id="bigcol"style="height: 200px; width: 170px; ">
+                        <div class="col-md-3  col-sm-3 mb-2" id="bigcol" style="height: 200px; width: 170px; ">
                             <div class="row  text-center align-items-center">
                             <div class="col-md-5 " id="smallcol" style="height: 100px; width: 85px;">
                                 <div class="mt-4">3rd December</div> 
@@ -146,7 +146,7 @@
                             </div>
                             </div>
                         </div>
-                        <div class="col-md-3 bg-muted mx-3 col-sm-6 mb-3 "id="desc-col" style="height: 200px; width: 350px; "><div>Coding competition</div></div>
+      <div class="col-md-3 bg-muted mx-3 col-sm-6 mb-3 " id="desc-col" style="height: 200px; width: 350px; "><div>Coding competition</div></div>
                     </div>
                 </div>
             </div>
